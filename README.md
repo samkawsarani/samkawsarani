@@ -9,6 +9,10 @@ I'm a Product leader and builder. 15+ years shipping FinTech and AI products fro
 - [slack-cli](https://github.com/samkawsarani/slack-cli) - A read-only CLI for Slack that I use with my agent
 - [hubspot-cli](https://github.com/samkawsarani/hubspot-cli) - A CLI for Hubspot that I use with my agent
 
+### 🤝 Contributions
+- [Granola-to-Obsidian](https://github.com/dannymcc/Granola-to-Obsidian) - An Obsidian plugin to automatically sync notes from Granola AI
+- [openwhispr-cli](https://github.com/OpenWhispr/openwhispr-cli) - A CLI for OpenWhispr
+
 ## ✍️ Writing (The Product Trench)
 ➡️ [**See all posts on The Product Trench**](https://www.producttrench.com/)
 
