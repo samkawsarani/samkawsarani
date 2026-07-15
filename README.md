@@ -5,6 +5,7 @@ I'm a Product leader and builder. 15+ years shipping FinTech and AI products fro
 ## 💻 Open Source
 - [product-os](https://github.com/samkawsarani/sams-product-os) - AI powered personal operating system - how I organize my PM workspace
 - [product-plugins](https://github.com/samkawsarani/sams-product-plugins) - My suite of Claude Code plugins for product managers
+- [OpenWhispr-to-Obsidian](https://github.com/samkawsarani/OpenWhispr-to-Obsidian) - An Obsidian plugin to automatically sync notes from OpenWhispr.
 - [granola-cli](https://github.com/samkawsarani/granola-cli) - A CLI for Granola that I use with my agent
 - [slack-cli](https://github.com/samkawsarani/slack-cli) - A read-only CLI for Slack that I use with my agent
 - [hubspot-cli](https://github.com/samkawsarani/hubspot-cli) - A CLI for Hubspot that I use with my agent
